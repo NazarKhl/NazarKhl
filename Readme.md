@@ -1,72 +1,43 @@
-# 👋 Hi there! I'm Nazar
+# Hi, I'm Nazar Khlivnyi 👋
+**Full-Stack Developer**
 
-🚀 **I am Junior Fullstack Developer** passionate about building useful digital products that solve real user problems.  
-💡 Strong in creating secure, scalable, and maintainable web applications using modern technologies.
+I am a **Full-Stack Developer** with ~12 months of web development experience. My main **tech stack** includes **Java, Angular, Next.js, TypeScript, Tailwind CSS, and MySQL**.
 
----
-
-## 🛠 Tech Stack
-
-### **Frontend**
-- HTML5, CSS3 (Tailwind, Sass)
-- JavaScript / TypeScript
-- React.js / Next.js / Redux / Jest
-
-### **Backend**
-- Java (Spring Boot)
-- C# (.NET Core)
-- RESTful APIs
-
-### **Databases**
-- MySQL, PostgreSQL
-- Microsoft SQL Server
-- MongoDB
-
-### **Tools & Practices**
-- Git / GitHub, Postman
-- Agile / Scrum
+I build **secure, scalable features** that deliver real user impact, such as **real-time collaboration tools**, **personalized workout tracking**, and **analytics systems**, improving productivity and engagement. I take **ownership**, **solve problems proactively**, **communicate clearly**, and **quickly adapt to new technologies** to deliver effective solutions.
 
 ---
 
-## 🌍 Languages
+## Experience
 
-- **English** — Upper Intermediate
+### Full-Stack Developer | NoteFlow | Mar - Jul 2025
+- Developed **secure authentication system** (JWT + RBAC), reducing unauthorized access.  
+- Built a **real-time collaborative note editor**, improving team productivity.  
+- Implemented **analytics microservice** for actionable user insights.  
+- Boosted **user engagement** by showing real-time progress.  
+**Tech Stack:** Java, Angular, TypeScript, MySQL
 
----
+### Full-Stack Developer | Sprinter IT Sp. z o.o. | Aug - Sep 2024
+- Created **admin module for bulk user operations**, saving ~60% of manual work.  
+- Integrated **logging & audit system**, enhancing platform security.  
+**Tech Stack:** Angular, Java, MySQL
 
-## 💼 Experience
-
-### 🔹 **NoteFlow** – Fullstack Developer  
-📅 _March – July 2025_  
-- Designed and implemented secure authentication (JWT + RBAC), preventing unauthorized data access and reducing support tickets.  
-- Developed real-time collaborative note editor with full CRUD support.  
-- Created analytics microservice in .NET Core to monitor user behavior and provide actionable insights.  
-_**Tech:** Java, Spring Boot, React / Next.js, TypeScript, MySQL, C# .NET Core_
-
----
-
-### 🔹 **Sprinter IT** – Software Engineering Intern  
-📅 _August – September 2024_  
-- Developed admin module enabling bulk user operations (CSV/Excel import/export), reducing manual work by ~60%.  
-- Integrated robust logging system to track and audit sensitive actions.  
-_**Tech:** React, .NET Core, Microsoft SQL Server_
+### Frontend Developer | FitTy | Feb - Jun 2024
+- Developed **drag-and-drop workout planner** for intuitive training plans.  
+- Implemented **real-time data tracking and progress visualization** for users to monitor workouts effectively.  
+- Enhanced **user engagement** through responsive and accessible UI with personalized workout feedback.  
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS
 
 ---
 
-### 🔹 **Fitness Application** – Frontend Developer  
-📅 _February – June 2024_  
-- Built an interactive workout planner with drag-and-drop UI.  
-- Integrated health APIs to sync user data across devices.  
-- Prioritized mobile-first, accessible design for responsive UX.  
-_**Tech:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS_
+## Skills
+- **Frontend:** Angular, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Java, Node.js, REST APIs, Microservices  
+- **Database:** MySQL  
+- **Tools & Practices:** Git, Docker, Agile, Testing, CI/CD  
 
 ---
 
-## 📫 Let's connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nazar-khlivnyi-1453761b8/)
-- 🧠 Always learning, always building!
-
----
-
-> “Code like a craftsman. Think like a user. Grow like a champion.” 💪
+## Contact
+- Email: [nazarhlivnij@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/nazar-khlivnyi-1453761b8/]  
+- GitHub: [https://github.com/NazarKhl]
