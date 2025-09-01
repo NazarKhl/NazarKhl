@@ -1,5 +1,4 @@
 # Hi, I'm Nazar Khlivnyi 👋
-**Full-Stack Developer**
 
 I am a **Full-Stack Developer** with ~12 months of web development experience. My main **tech stack** includes **Java, Angular, Next.js, TypeScript, Tailwind CSS, and MySQL**.
 
