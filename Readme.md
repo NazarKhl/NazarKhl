@@ -1,6 +1,6 @@
 # Hi, I'm Nazar👋
 
-Full-Stack Developer with ~1 year of experience building scalable high-impact web applications improving user engagement and productivity developed real-time collaboration tools increasing team efficiency implemented personalized workout tracking boosting retention optimized application performance and delivered complex projects in Agile teams strong problem-solving skills fast learner effective communicator
+## Full-Stack Developer with ~1 year of experience building scalable high-impact web applications improving user engagement and productivity developed real-time collaboration tools increasing team efficiency implemented personalized workout tracking boosting retention optimized application performance and delivered complex projects in Agile teams strong problem-solving skills fast learner effective communicator
 ---
 
 ## Experience
