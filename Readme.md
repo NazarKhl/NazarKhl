@@ -1,33 +1,37 @@
 # Hi, I'm Nazar👋
 
-Full-Stack Developer with ~1 year of web development experience. My main tech stack includes Java, Next.js (React), TypeScript, Tailwind CSS and Angular. I build secure, scalable features that deliver real user impact, like real-time collaboration tools and personalized workout tracking, boosting engagement and productivity. Experienced in Agile environments, collaborating with cross-functional teams, and delivering measurable impact on business outcomes. Strong problem-solving skills, fast learner, and effective communicator
-
+Full-Stack Developer with ~1 year of experience building scalable high-impact web applications improving user engagement and productivity developed real-time collaboration tools increasing team efficiency implemented personalized workout tracking boosting retention optimized application performance and delivered complex projects in Agile teams strong problem-solving skills fast learner effective communicator
 ---
 
 ## Experience
 
 ### Full-Stack Developer | NoteFlow (Short-term project contract) Mar - July 2025
--  Developed a secure authentication system (JWT + RBAC), significantly strengthening platform security. 
-- Built a real-time collaborative note editor, enhancing team productivity and simplifying multi-user workflow. 
--  Implemented an analytics microservice to provide actionable insights for better user experience and feature planning.
-- Boosted **user engagement** by showing real-time progress.  
-**Tech Stack:** Next.js (React), Java, TypeScript, MySQL
+#### Enterprise ERP platform for business process management
+- Developed secure authentication system with JWT and RBAC, enhancing platform security
+- Integrated analytics microservice and caching layer, improving data access speed 
+- Created real-time progress tracking, boosting user engagement
+- Implemented Redux state management to better handle large datasets and app state
+- Worked on Document Management System (DMS) features to streamline content handling  
+**Tech Stack:** React (Next.js), Redux Toolkit, Vite, Axios, Java, TypeScript, MySQL
 
 ### Full-stack Developer | Sprinter IT Sp. z o.o. (University Internship) Aug - Sept 2024
 - Created an admin module for bulk user operations, streamlining workflows and reducing manual effort.
--  Integrated logging and audit systems to improve platform reliability and operational transparency.  
-**Tech Stack:** Next.js (React), Java, MySQL
+- Integrated logging and audit systems to improve platform reliability and operational transparency.  
+**Tech Stack:** React.js, Axios, Java, MySQL
 
 ###  Frontend Developer | FitTy (Short-term project contract) Feb - Jun 2024
-- Developed drag-and-drop workout planner for intuitive training plans.  
-- Implemented real-time data tracking and progress visualization, helping users monitor their workouts.
-- Enhanced user engagement through responsive and accessible UI with personalized workout feedback.  
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+#### Workout management system
+- Developed drag-and-drop workout planner, improving user experience and training plan creation 
+- Created real-time tracking and progress visualization, helping users monitor workouts
+- Delivered responsive and accessible UI with personalized feedback
+- Implemented tab-based navigation system for smoother workflow
+-  Optimized component performance, reducing load times and improving overall app responsiveness
+**Tech Stack:** React.js, Axios, TypeScript, Tailwind CSS
 
 ---
 
 ## Skills
-- **Frontend:** Next.js (React), Angular, TypeScript, Tailwind CSS  
+- **Frontend:** React, Next.js, Redux Toolkit, Angular, TypeScript/JavaScript, Tailwind CSS 
 - **Backend:** Java Spring Boot, Node.js
 - **Database:** MySQL,  PostgreSQL, MongoDB
 - **Tools & Practices:** Git/GitHub, Postman, Figma (for UI prototyping) 
