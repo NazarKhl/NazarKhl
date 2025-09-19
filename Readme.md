@@ -11,12 +11,14 @@
 - Integrated analytics microservice and caching layer, improving data access speed 
 - Created real-time progress tracking, boosting user engagement
 - Implemented Redux state management to better handle large datasets and app state
-- Worked on Document Management System (DMS) features to streamline content handling  
+- Worked on Document Management System (DMS) features to streamline content handling
+  
 **Tech Stack:** React (Next.js), Redux Toolkit, Vite, Axios, Java, TypeScript, MySQL
 
 ### Full-stack Developer | Sprinter IT Sp. z o.o. (University Internship) Aug - Sept 2024
 - Created an admin module for bulk user operations, streamlining workflows and reducing manual effort.
-- Integrated logging and audit systems to improve platform reliability and operational transparency.  
+- Integrated logging and audit systems to improve platform reliability and operational transparency.
+  
 **Tech Stack:** React.js, Axios, Java, MySQL
 
 ###  Frontend Developer | FitTy (Short-term project contract) Feb - Jun 2024
@@ -26,6 +28,7 @@
 - Delivered responsive and accessible UI with personalized feedback
 - Implemented tab-based navigation system for smoother workflow
 -  Optimized component performance, reducing load times and improving overall app responsiveness
+  
 **Tech Stack:** React.js, Axios, TypeScript, Tailwind CSS
 
 ---
