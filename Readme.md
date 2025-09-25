@@ -9,10 +9,13 @@ Skilled in creating **scalable web applications**, integrating **secure backends
 - **AI-powered tools (pet projects)** → experimented with LLMs, Node.js, and React for smart automation.  
 
 ## ⚡ Skills
-- **Frontend:** React, Next.js, Redux Toolkit, TypeScript/JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Java Spring Boot  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Other:** Git/GitHub, Postman, Agile workflows
+- **Frontend:** TypeScript / JavaScript, React, Next.js, Angular, Redux, Tailwind CSS  
+- **Backend:** Java Spring Boot, C# .NET Core, Node.js, REST API, GraphQL  
+- **Databases:** PostgreSQL, MySQL, Microsoft SQL Server  
+- **DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS, Vercel  
+- **Collaboration & Tools:** Git/GitHub, Postman, Figma, Agile/Scrum, Jira  
+- **Testing & Security:** Unit testing, JWT authentication  
+- **AI Integration:** OpenAI API (basic), Ollama, Prompt Engineering
 
 ---
 
