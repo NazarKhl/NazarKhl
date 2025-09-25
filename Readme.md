@@ -10,7 +10,7 @@ Skilled in creating **scalable web applications**, integrating **secure backends
 
 ## ⚡ Skills
 - **Frontend:** TypeScript / JavaScript, React, Next.js, Angular, Redux, Tailwind CSS  
-- **Backend:** Java Spring Boot, C# .NET Core, Node.js, REST API, GraphQL  
+- **Backend:** Java Spring Boot, Node.js, REST API, GraphQL  
 - **Databases:** PostgreSQL, MySQL, Microsoft SQL Server  
 - **DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS, Vercel  
 - **Collaboration & Tools:** Git/GitHub, Postman, Figma, Agile/Scrum, Jira  
